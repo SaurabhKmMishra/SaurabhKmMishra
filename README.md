@@ -1,4 +1,4 @@
-<h1 align="center">Saurabh Kumar Mishra</h1>
+<h1 align="center">SAURABH KUMAR MISHRA</h1>
 
 ###
 
@@ -39,13 +39,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="160" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="160" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="160" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="160" height="40" alt="telegram logo"  />
-</div>
+<p align="center">Email: saurabhkm628732@gmail.com</p>
 
 ###
 
