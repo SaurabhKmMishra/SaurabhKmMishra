@@ -33,10 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Email: saurabhkm628732@gmail.com</p>
 
 ###
