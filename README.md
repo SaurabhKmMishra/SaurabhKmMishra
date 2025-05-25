@@ -1,3 +1,7 @@
+<h2 align="left">Hello there👋, I'm</h2>
+
+###
+
 <h1 align="center">SAURABH KUMAR MISHRA</h1>
 
 ###
@@ -31,6 +35,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="center">Email: saurabhkm628732@gmail.com</p>
 
 ###
@@ -38,13 +50,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/SaurabhKmMishra/count.svg?"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
