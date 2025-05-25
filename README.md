@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I am SAURABH KUMAR MISHRA</h1>
+<h1 align="center">SAURABH KUMAR MISHRA</h1>
 
 ###
 
@@ -14,8 +14,6 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -40,5 +38,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/SaurabhKmMishra/count.svg?"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SaurabhKmMishra/SaurabhKmMishra/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
