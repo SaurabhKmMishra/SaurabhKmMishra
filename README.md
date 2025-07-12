@@ -2,7 +2,9 @@
 
 ###
 
-<h1 align="center">SAURABH KUMAR MISHRA</h1>
+<strong>
+  <img src="./assets/name_image.png" alt="Saurabh Kumar Mishra">
+</strong>
 
 ###
 
