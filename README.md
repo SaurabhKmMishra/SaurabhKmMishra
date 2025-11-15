@@ -52,8 +52,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SaurabhKmMishra/count.svg?"  />
-</div>
 
-###
